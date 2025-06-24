@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Kyle Thomas Cowden",
+    "email": "cowdenky@msu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://spleen-in-a-bean.github.io",
+    "summary": "Currently an undergraduate at Michigan State University",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "48823",
       "city": "Earth",
       "countryCode": "US",
       "region": ""
@@ -25,19 +25,19 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "spleen-in-a-bean",
+        "url": "https://github.com/spleen-in-a-bean"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Michigan State University",
+      "area": "B.S in Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2020",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
